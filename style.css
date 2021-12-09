@@ -286,7 +286,7 @@ li .heading__block--text {
 }
 
 @media (max-width: 767px) {
-  .container{
+  footer .container{
   padding-left: 20px;
   padding-right: 20px;  
   }
@@ -370,7 +370,7 @@ li .heading__block--text {
     height: 930px;
   }
   
-  .container{
+  footer .container{
   padding-left: 20px;
   padding-right: 20px;  
   }
