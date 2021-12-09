@@ -286,6 +286,11 @@ li .heading__block--text {
 }
 
 @media (max-width: 767px) {
+  .container{
+  padding-left: 20px;
+  padding-right: 20px;  
+  }
+  
   footer {
     height: 599px;
   }
@@ -375,21 +380,24 @@ li .heading__block--text {
 
   .heading__block--logo {
     top: -41px;
-    right: 41vw;
+    right: 34vw;
 }
 
   .heading__block--first .heading__block--text {
-       margin-left: 53vw;
+       margin-left: 57vw;
     margin-bottom: 20px;
     margin-top: 0;
+    font-size: 14px;
 }
-
-  .heading__location--adaptive .heading__block--text {
-    margin-left: 0;
+  .heading__block--title{
+  font-size:16px
+  }
+  .heading__block--link{
+  font-size: 14px
   }
 
   .heading__tel--adaptive {
-    margin-top: 0;
+    margin-bottom: 0;
   }
 
   .heading__copyright--year {
