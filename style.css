@@ -385,16 +385,20 @@ li .heading__block--text {
   }
 
   .heading__block--logo {
-    top: -41px;
+    top: -17px;
     width: 147px;
     height: 85px;
     background-size: contain;
     right: 42vw;
 }
+  
+  heading__about{
+  margin-top:10px
+  }
 
   .heading__block--first .heading__block--text {
        margin-left: 53vw;
-    margin-bottom: 20px;
+    margin-bottom: 54px;
     margin-top: 0;
     font-size: 14px;
 }
