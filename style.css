@@ -375,14 +375,14 @@ li .heading__block--text {
 
   .heading__block--logo {
     top: -41px;
-    right: 136px;
-  }
+    right: 41vw;
+}
 
   .heading__block--first .heading__block--text {
-    margin-left: 167px;
+       margin-left: 53vw;
     margin-bottom: 20px;
     margin-top: 0;
-  }
+}
 
   .heading__location--adaptive .heading__block--text {
     margin-left: 0;
