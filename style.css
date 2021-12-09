@@ -386,7 +386,10 @@ li .heading__block--text {
 
   .heading__block--logo {
     top: -41px;
-    right: 34vw;
+    width: 147px;
+    height: 85px;
+    background-size: contain;
+    right: 42vw;
 }
 
   .heading__block--first .heading__block--text {
