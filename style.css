@@ -390,7 +390,7 @@ li .heading__block--text {
     font-size: 14px;
 }
   
-  .heading__block--location .heading__block--text{
+  .heading__location--adaptive .heading__block--text{
   margin-left: 0;
   }
   .heading__block--title{
