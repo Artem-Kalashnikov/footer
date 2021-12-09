@@ -369,6 +369,12 @@ li .heading__block--text {
   footer {
     height: 930px;
   }
+  
+  .container{
+  padding-left: 20px;
+  padding-right: 20px;  
+  }
+  
 
   .two__block {
     display: none;
